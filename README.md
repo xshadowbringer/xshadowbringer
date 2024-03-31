@@ -21,6 +21,8 @@
 
 [![xshadowbringer's GitHub | Languages Over Time](https://stats.quine.sh/xshadowbringer/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=xshadowbringer)
 
+[![xshadowbringer's GitHub | Stats](https://stats.quine.sh/xshadowbringer/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=xshadowbringer)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xshadowbringer&show_icons=true&locale=en&layout=compact" alt="xshadowbringer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xshadowbringer&show_icons=true&locale=en" alt="xshadowbringer" /></p>
